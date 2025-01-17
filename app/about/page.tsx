@@ -3,27 +3,17 @@ import Image from 'next/image';
 
 const developers = [
   {
-    name: "Laiba Ayub",
+    name: "Usman Ashraf",
     role: "Full Stack Developer",
-    image: "laiba.jpeg",
-    bio: "Laiba is a skilled full-stack developer with a passion for building innovative solutions. She focuses on both frontend and backend technologies to create seamless user experiences.",
+    image: "dev.jpg",
+    bio: "Usman is a skilled full-stack developer with a passion for building innovative solutions. She focuses on both frontend and backend technologies to create seamless user experiences.",
     social: {
-      github: "https://github.com/laibaayub",
-      linkedin: "https://linkedin.com/in/laibaayub",
-      email: "laiba@vocalsense.ai"
+      github: "https://github.com/usmanashraff",
+      linkedin: "https://www.linkedin.com/in/usman-ashraf-304145274/",
+      email: "osmanashruf@gmail.com"
     }
   },
-  {
-    name: "Iqra Amin",
-    role: "AI & Backend Developer",
-    image: "iqra.png",
-    bio: "Iqra is an AI enthusiast with expertise in backend development. She works on improving our transcription engine, leveraging machine learning models to enhance accuracy and efficiency.",
-    social: {
-      github: "https://github.com/iqraamin",
-      linkedin: "https://linkedin.com/in/iqraamin",
-      email: "iqra@vocalsense.ai"
-    }
-  }
+  
 ];
 
 export default function About() {
