@@ -6,7 +6,7 @@ const developers = [
     name: "Usman Ashraf",
     role: "Full Stack Developer",
     image: "dev.jpg",
-    bio: "Usman is a skilled full-stack developer with a passion for building innovative solutions. She focuses on both frontend and backend technologies to create seamless user experiences.",
+    bio: "Usman is a skilled full-stack developer with a passion for building innovative solutions. He focuses on both frontend and backend technologies to create seamless user experiences.",
     social: {
       github: "https://github.com/usmanashraff",
       linkedin: "https://www.linkedin.com/in/usman-ashraf-304145274/",
